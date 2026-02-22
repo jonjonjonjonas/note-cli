@@ -1,5 +1,7 @@
 # Note CLI 📝
 
+## This project is purely vibecoded as a test to see how it works. This line is the only handwritten.
+
 A powerful, secure, and user-friendly command-line interface for managing your notes with a beautiful tree view and real-time search capabilities.
 
 ## 🎉 **Complete Feature Set**
